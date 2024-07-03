@@ -1,7 +1,8 @@
 # rn-assignment6-11124414
+## STUDENT ID: 11124414
 
-#  :star: Welcome To My E-commerce Mobile Application :star:
- # Screenshots Of My E-commerce Mobile Application
+## :star: Welcome To My E-commerce Mobile Application :star:
+ ### Screenshots Of My E-commerce Mobile Application :star:
 
 ![alt text](MyWebsite/assets/Screen2.jpeg)
 
